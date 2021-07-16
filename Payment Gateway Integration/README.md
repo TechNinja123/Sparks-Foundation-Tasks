@@ -3,7 +3,7 @@ This is the project given by sparks foundation
 <h2>The project name is <strong>Payment gateway integration</strong></h2>
 
 ## 1. Task
-![Task](Payment-Integration/screenshots/ 0.PNG)
+![Task](Payment-Integration/screenshots/0.PNG)
 ## 2. Home Page
 ![Homepage](Payment-Integration/screenshots/1.png)
 ## 3. Payments Page
