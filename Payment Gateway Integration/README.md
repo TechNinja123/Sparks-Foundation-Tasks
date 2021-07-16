@@ -10,7 +10,7 @@ This is the project given by sparks foundation
 ![Payment Details](Payment-Integration/screenshots/2.PNG)
 
 ## 4. Payments Page Fill Up
-![Login Details](Payment-Integration/screenshots/4.png)
+![Login Details](Payment-Integration/screenshots/4.PNG)
 
 ## 5.PayPal
 ![PayPal ](Payment-Integration/screenshots/5.png)
