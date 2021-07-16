@@ -5,9 +5,9 @@ This is the project given by sparks foundation
 ## 1. Task
 ![Task](Payment-Integration/screenshots/0.PNG)
 ## 2. Home Page
-![Homepage](Payment-Integration/screenshots/1.png)
+![Homepage](Payment-Integration/screenshots/1.PNG)
 ## 3. Payments Page
-![Payment Details](Payment-Integration/screenshots/2.png)
+![Payment Details](Payment-Integration/screenshots/2.PNG)
 
 ## 4. Payments Page Fill Up
 ![Login Details](Payment-Integration/screenshots/4.png)
